@@ -8,7 +8,7 @@
 // coding practice: when making a constant variable make it all caps so it is 
 // easier to know which variables are constants and which ones are not.
 // This will search the program for anytime NAME appears and replace it 
-//with bob, and tage any time AGE appears and replaces it with. 
+//with bob, and tage any time AGE appears and replaces it with 23. 
 
 
 // pre preprocessor directives: anything with the # in front of it. You do not 
