@@ -8,8 +8,7 @@
 // coding practice: when making a constant variable make it all caps so it is 
 // easier to know which variables are constants and which ones are not.
 // This will search the program for anytime NAME appears and replace it 
-//with bob. 
-
+//with bob, and tage any time AGE appears and replaces it with. 
 
 
 // pre preprocessor directives: anything with the # in front of it. You do not 
@@ -21,5 +20,7 @@ int main(int argc, char** argv) {
 
 
     return (EXIT_SUCCESS);
+    
+   // watch Buckys C Programming Tutorial - 10 - Creating a Header File
 }
 
